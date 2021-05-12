@@ -1,6 +1,6 @@
 # coding: utf-8
 import cv2
-import string
+# import string
 
 def main():
 
@@ -30,7 +30,6 @@ def main():
             writer.release()
             video.release()
             cv2.destroyAllWindows()
-
             print("完了")
             break
         else :

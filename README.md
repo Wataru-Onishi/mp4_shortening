@@ -13,6 +13,6 @@ new_sample.mp4
 ファイルを書き出し中・・・  
 完了    
 
-
-参考文献
+  
+参考文献  
 https://rikoubou.hatenablog.com/entry/2019/01/15/174751

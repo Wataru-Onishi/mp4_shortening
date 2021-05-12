@@ -15,4 +15,5 @@ new_sample.mp4
 
   
 参考文献  
-https://rikoubou.hatenablog.com/entry/2019/01/15/174751
+https://rikoubou.hatenablog.com/entry/2019/01/15/174751  
+https://absarcs.info/how-to/getting-length-video-using-python3-opencv/

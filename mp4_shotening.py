@@ -8,7 +8,7 @@ def main():
         new_file_name = "./" + input("新しいファイル名を入力してください\n")                                        
         video = cv2.VideoCapture(file_name)                                                     # videoオブジェクト作成
         if video.isOpened() == True :                                                           # ファイルの確認
-            new_video_len_sec = input("ファイルの長さを指定してください(秒)\n")                 # 新しい動画の長さを読み込む
+            new_video_len_sec = input("ファイルの長さを指定してください(秒)\n")                       # 新しい動画の長さを読み込む
             new_video_len_sec = int(new_video_len_sec) -1                                       # 新しい動画の秒数を指定
             width = int(video.get(cv2.CAP_PROP_FRAME_WIDTH))                                    # フレームの幅を取得
             height = int(video.get(cv2.CAP_PROP_FRAME_HEIGHT))                                  # フレームの高さを取得

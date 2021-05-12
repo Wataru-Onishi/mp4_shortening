@@ -15,5 +15,7 @@ new_sample.mp4
 
   
 参考文献  
+【python/OpenCV】OpenCVで動画ファイルの読み込みと保存の方法  
 https://rikoubou.hatenablog.com/entry/2019/01/15/174751  
+Python 3 + OpenCV を用いて動画の長さを取得する  
 https://absarcs.info/how-to/getting-length-video-using-python3-opencv/

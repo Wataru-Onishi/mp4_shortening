@@ -5,7 +5,7 @@
 
 使用例-------------------------  
 
-python3 mp4_shortening 
+python3 mp4_shortening  
 ファイル名を入力してください  
 sample.mp4  
 新しいファイル名を入力してください  

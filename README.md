@@ -52,11 +52,6 @@ pip install opencv-python
 
 ## 作者
 
-[あなたの名前]
+[Wataru Onishi]
 
----
-
-## 📌 GitHubリポジトリ向けの設定
-
-この`README.md`は、そのままGitHubリポジトリに貼り付けることができます。
 
